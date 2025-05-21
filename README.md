@@ -1,5 +1,8 @@
 # Shadowloop
 
+## 📜 Disclaimer
+This repository contains **limited excerpts of code** solely for demonstrative purposes. The full project repository may be made available in the future.
+
 Shadowloop is a first-person horror puzzle game in which the player must solve environmental challenges to break out of a recurring time loop.
 
 ## 🎓 Project Overview
